@@ -18,7 +18,9 @@
             <ul class="navbar-nav">
                 <li><a href="" class="nav-link">Password Reset</a></li>
                 <li><a href="" class="nav-link">All Blogs</a></li>
+                <li><a href="action.php?pages=file-upload" class="nav-link">File upload</a></li>
                 <li><a href="action.php?pages=product" class="nav-link">All Products</a></li>
+                <li><a href="?pages=pattern" class="nav-link">Pattern</a></li>
             </ul>
         </div>
     </div>
